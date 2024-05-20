@@ -1,0 +1,28 @@
+<h1 align="center" id="title">COD FOV Changer</h1>
+
+<p id="description">For older Call of Duty Games the Field of View (FOV) is limited to a very low number due to console limitations. Those Limiations do not apply for PC and many players like to use a Software which increases the FOV.<br>Such Software is not yet available for Linux so I created it.</p>
+
+<h2>Project Screenshots</h2>
+
+<img src="https://imgur.com/a/JG4pW1m" alt="project-screenshot">
+
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone source code</p>
+
+```
+git clone https://github.com/marcelmarquardt/cod_fov_changer.git <some/directory>
+```
+
+<p>2. Generate Build files</p>
+
+```
+cmake .
+```
+
+<p>3. Build binary</p>
+
+```
+make
+```
