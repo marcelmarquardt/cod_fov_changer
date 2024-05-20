@@ -4,8 +4,7 @@
 
 <h2>Project Screenshots</h2>
 
-<img src="https://imgur.com/a/JG4pW1m" alt="project-screenshot">
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/G5Q44cs/Screenshot-from-2024-05-20-19-41-19.png" alt="Screenshot-from-2024-05-20-19-41-19" border="0"></a>
 
 <h2>🛠️ Installation Steps:</h2>
 
